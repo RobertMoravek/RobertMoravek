@@ -7,7 +7,7 @@ After working in the film and TV business for many years, I am now looking for n
 
 I recently completed a comprehensive Fullstack Web-Developement Bootcamp at Spiced Academy (12 weeks, Berlin) and learning many different frontend and backend technologies. I am also a licensed Scrum Master and Product Owner.
 
-## TechStack
+## Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,9 +27,13 @@ I recently completed a comprehensive Fullstack Web-Developement Bootcamp at Spic
 
 ## Random Facts about me
 🔭 I’m currently working on completing my github profile and creating a portfolio page
+
 🌱 I’m currently learning Typescript
+
 👯 I’m looking to collaborate on the jobsearch
+
 💬 Ask me about my Scrum Master Certificate ;-)
+
 
 ## Contact me
 📬 via my LinkedIn Profile:
