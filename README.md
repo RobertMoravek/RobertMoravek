@@ -37,6 +37,6 @@ I recently completed a comprehensive Fullstack Web-Developement Bootcamp at Spic
 
 ## Contact me
 📬 via my LinkedIn Profile:
-https://www.linkedin.com/in/robert-mor%C3%A1vek-0b46891b0/
+https://www.linkedin.com/in/robert-moravek/
 
 
